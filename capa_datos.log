@@ -1,0 +1,240 @@
+03,37,57 PM: INFO [logger_base.py:12] Mensaje a nivel de info
+03,37,57 PM: DEBUG [logger_base.py:13] Mensaje a nivel debug
+03,37,57 PM: WARNING [logger_base.py:14] Mensaje a nivel de warning
+03,37,57 PM: ERROR [logger_base.py:15] Mensaje a nivel de error
+03,37,57 PM: CRITICAL [logger_base.py:16] Mensaje a nivel critico
+03 38 31 PM: INFO [logger_base.py:12] Mensaje a nivel de info
+03 38 31 PM: DEBUG [logger_base.py:13] Mensaje a nivel debug
+03 38 31 PM: WARNING [logger_base.py:14] Mensaje a nivel de warning
+03 38 31 PM: ERROR [logger_base.py:15] Mensaje a nivel de error
+03 38 31 PM: CRITICAL [logger_base.py:16] Mensaje a nivel critico
+03:38:53 PM: INFO [logger_base.py:12] Mensaje a nivel de info
+03:38:53 PM: DEBUG [logger_base.py:13] Mensaje a nivel debug
+03:38:53 PM: WARNING [logger_base.py:14] Mensaje a nivel de warning
+03:38:53 PM: ERROR [logger_base.py:15] Mensaje a nivel de error
+03:38:53 PM: CRITICAL [logger_base.py:16] Mensaje a nivel critico
+04:02:00 PM: DEBUG [persona.py:53] 
+            Id Persona: 1,
+            Nombre: Andres,
+            Apellido: Gonzalez,
+            Email: agonzalez@mail.com
+        
+04:03:59 PM: DEBUG [persona.py:53] 
+            Id Persona: 1,
+            Nombre: Andres,
+            Apellido: Gonzalez,
+            Email: agonzalez@mail.com
+        
+04:05:58 PM: DEBUG [persona.py:53] 
+            Id Persona: 1,
+            Nombre: Andres,
+            Apellido: Gonzalez,
+            Email: agonzalez@mail.com
+        
+04:05:58 PM: DEBUG [persona.py:56] 
+            Id Persona: None,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@mail.com
+        
+04:06:52 PM: DEBUG [persona.py:53] 
+            Id Persona: 1,
+            Nombre: Andres,
+            Apellido: Gonzalez,
+            Email: agonzalez@mail.com
+        
+04:06:52 PM: DEBUG [persona.py:56] 
+            Id Persona: None,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@mail.com
+        
+04:06:52 PM: DEBUG [persona.py:59] 
+            Id Persona: 1,
+            Nombre: None,
+            Apellido: None,
+            Email: None
+        
+05:00:33 PM: ERROR [conexion.py:26] Ocurrió una excepcion al obtener la conexión: invalid connection option "database"
+
+05:04:11 PM: ERROR [conexion.py:28] Ocurrió una excepcion al obtener la conexión: invalid connection option "database"
+
+05:14:49 PM: ERROR [conexion.py:27] Ocurrió una excepcion al obtener la conexión: invalid connection option "database"
+
+05:20:05 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x223d1eea8a0>
+03:21:18 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x17190ffa930>
+03:21:18 PM: DEBUG [conexion.py:37] Se abrio correctamente el cursor <psycopg.Cursor [no result] [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x17190ede750>
+04:34:44 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1be9e684fb0>
+04:34:44 PM: DEBUG [conexion.py:37] Se abrio correctamente el cursor <psycopg.Cursor [no result] [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1be9e7fe750>
+04:36:46 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x20c88c64fb0>
+04:36:46 PM: DEBUG [conexion.py:37] Se abrio correctamente el cursor <psycopg.Cursor [no result] [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x20c88dde750>
+04:40:17 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x179ff48e000>
+04:40:17 PM: DEBUG [conexion.py:37] Se abrio correctamente el cursor <psycopg.Cursor [no result] [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x179ff35e750>
+04:40:49 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x21bd986e180>
+04:40:49 PM: DEBUG [conexion.py:37] Se abrio correctamente el cursor <psycopg.Cursor [no result] [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x21bd9742750>
+04:41:47 PM: DEBUG [persona.py:53] 
+            Id Persona: 1,
+            Nombre: Andres,
+            Apellido: Gonzalez,
+            Email: agonzalez@mail.com
+        
+04:41:47 PM: DEBUG [persona.py:56] 
+            Id Persona: None,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@mail.com
+        
+04:41:47 PM: DEBUG [persona.py:59] 
+            Id Persona: 1,
+            Nombre: None,
+            Apellido: None,
+            Email: None
+        
+04:44:42 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x23b6fe24fb0>
+04:44:42 PM: DEBUG [conexion.py:37] Se abrio correctamente el cursor <psycopg.Cursor [no result] [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x23b6ff9e750>
+04:47:04 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x28c10d7ffb0>
+04:47:04 PM: DEBUG [conexion.py:37] Se abrio correctamente el cursor <psycopg.Cursor [no result] [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x28c11ec2c90>
+04:47:04 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 1,
+            Nombre: Monica,
+            Apellido: Ceballos,
+            Email: monica@mail.com
+        
+04:47:04 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 3,
+            Nombre: Maria,
+            Apellido: Moreno,
+            Email: maria@mail.com
+        
+04:47:04 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 5,
+            Nombre: Jineth,
+            Apellido: Gonzalez,
+            Email: jineth@mail.com
+        
+04:47:04 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 6,
+            Nombre: Melissa,
+            Apellido: Ocampo,
+            Email: melissa@mail.com
+        
+04:47:04 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 8,
+            Nombre: Sebastian,
+            Apellido: Ceballos,
+            Email: sebastian@mail.com
+        
+04:47:04 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 10,
+            Nombre: Michael,
+            Apellido: Morales,
+            Email: michael@mail.com
+        
+04:47:04 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 14,
+            Nombre: Andrea,
+            Apellido: Velandia,
+            Email: andrea@mail.com
+        
+04:47:04 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 15,
+            Nombre: Sandra,
+            Apellido: MorenoSalamanca,
+            Email: sandra@mail.com
+        
+04:47:04 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 23,
+            Nombre: Sofia,
+            Apellido: Velasquez,
+            Email: sofia@mail.com
+        
+04:47:08 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1d8709ae360>
+04:47:08 PM: DEBUG [conexion.py:37] Se abrio correctamente el cursor <psycopg.Cursor [no result] [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1d870882810>
+04:47:08 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 1,
+            Nombre: Monica,
+            Apellido: Ceballos,
+            Email: monica@mail.com
+        
+04:47:08 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 3,
+            Nombre: Maria,
+            Apellido: Moreno,
+            Email: maria@mail.com
+        
+04:47:08 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 5,
+            Nombre: Jineth,
+            Apellido: Gonzalez,
+            Email: jineth@mail.com
+        
+04:47:08 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 6,
+            Nombre: Melissa,
+            Apellido: Ocampo,
+            Email: melissa@mail.com
+        
+04:47:08 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 8,
+            Nombre: Sebastian,
+            Apellido: Ceballos,
+            Email: sebastian@mail.com
+        
+04:47:08 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 10,
+            Nombre: Michael,
+            Apellido: Morales,
+            Email: michael@mail.com
+        
+04:47:08 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 14,
+            Nombre: Andrea,
+            Apellido: Velandia,
+            Email: andrea@mail.com
+        
+04:47:08 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 15,
+            Nombre: Sandra,
+            Apellido: MorenoSalamanca,
+            Email: sandra@mail.com
+        
+04:47:08 PM: DEBUG [persona_dao.py:31] 
+            Id Persona: 23,
+            Nombre: Sofia,
+            Apellido: Velasquez,
+            Email: sofia@mail.com
+        
+05:03:56 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1d4f3e0d490>
+05:03:56 PM: DEBUG [persona_dao.py:33] Persona insertada: 
+            Id Persona: None,
+            Nombre: Lina,
+            Apellido: Ruiz,
+            Email: lruiz@mail.com
+        
+05:03:56 PM: DEBUG [persona_dao.py:40] Personas insertadas: 1
+05:03:56 PM: ERROR [conexion.py:40] Ocurrió una excepcion al obtener el cursor: the connection is closed
+05:17:57 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1fbbf34f740>
+05:20:07 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1a78666f530>
+05:20:50 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1678021f6b0>
+05:21:26 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1f1b25cf6b0>
+05:30:14 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x26082fcf6e0>
+05:30:27 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1d5207bf3e0>
+03:49:36 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x217a4c0f2c0>
+03:49:36 PM: DEBUG [persona_dao.py:43] Persona actualizada: 
+            Id Persona: 14,
+            Nombre: Andres,
+            Apellido: Bonilla,
+            Email: abonilla@mail.com
+        
+03:49:36 PM: DEBUG [persona_dao.py:56] Personas actualizadas: 1
+04:07:44 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1a7b806fa10>
+04:08:17 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x23e54b0fa10>
+04:08:58 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x183fbcdfa10>
+04:43:27 PM: DEBUG [conexion.py:24] Conexión exitosa: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x2610e67f5c0>
+04:43:27 PM: DEBUG [persona_dao.py:52] Objeto eliminado: 
+            Id Persona: 24,
+            Nombre: None,
+            Apellido: None,
+            Email: None
+        
+04:43:27 PM: DEBUG [persona_dao.py:69] Personas eliminadas: 1
