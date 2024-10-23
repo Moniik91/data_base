@@ -238,3 +238,60 @@
             Email: None
         
 04:43:27 PM: DEBUG [persona_dao.py:69] Personas eliminadas: 1
+04:15:49 PM: ERROR [conexion.py:34] Error al crear el pool de conexiones: type object 'Conexion' has no attribute '_MIN_CON'
+04:16:28 PM: DEBUG [conexion.py:30] Creación del pool exitoso:<psycopg_pool.pool.ConnectionPool 'pool-1' at 0x22da8910560>
+04:16:28 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x22da8910e00>
+04:16:28 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x22da8501d00>
+04:19:40 PM: DEBUG [conexion.py:30] Creación del pool exitoso:<psycopg_pool.pool.ConnectionPool 'pool-1' at 0x258d343e780>
+04:19:40 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x258d3661fa0>
+04:19:40 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x258d35b7440>
+04:19:40 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x258d3662d80>
+04:19:40 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x258d3661ca0>
+04:19:52 PM: DEBUG [conexion.py:30] Creación del pool exitoso:<psycopg_pool.pool.ConnectionPool 'pool-1' at 0x150a17141a0>
+04:19:52 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x150a1790f20>
+04:19:52 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x150a0e01b20>
+04:19:52 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x150a1791d30>
+04:19:52 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x150a1791ac0>
+04:19:53 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x150a1791a60>
+04:21:22 PM: DEBUG [conexion.py:30] Creación del pool exitoso:<psycopg_pool.pool.ConnectionPool 'pool-1' at 0x1f3cf8d41a0>
+04:21:22 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1f3cf950f80>
+04:21:22 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1f3cf881c40>
+04:21:22 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1f3cf952c90>
+04:21:22 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1f3cf951bb0>
+04:21:22 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1f3cf951b50>
+04:28:12 PM: DEBUG [conexion.py:30] Creación del pool exitoso:<psycopg_pool.pool.ConnectionPool 'pool-1' at 0x2ca8df0f0b0>
+04:28:12 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x2ca90562030>
+04:28:12 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x2ca902e1b20>
+04:28:12 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x2ca90560e60>
+04:28:13 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x2ca90561d00>
+04:28:13 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x2ca90561ca0>
+04:38:15 PM: DEBUG [conexion.py:30] Creación del pool exitoso:<psycopg_pool.pool.ConnectionPool 'pool-1' at 0x1baab97f0b0>
+04:38:15 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1baab6dcf20>
+04:38:15 PM: DEBUG [conexion.py:49] Regresamos la conexion al pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1baab6dcf20>
+04:38:15 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1baab6dcf20>
+05:10:20 PM: DEBUG [cursor_del_pool.py:8] Inicio del método with __enter__
+05:10:20 PM: DEBUG [conexion.py:30] Creación del pool exitoso:<psycopg_pool.pool.ConnectionPool 'pool-1' at 0x268a3791be0>
+05:10:20 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x268a41a5a00>
+05:10:20 PM: DEBUG [cursor_del_pool.py:26] Dentro del bloque with
+05:10:20 PM: DEBUG [cursor_del_pool.py:14] Se ejecuta método __exit__
+05:10:20 PM: ERROR [cursor_del_pool.py:17] Ocurrio una excepcion, se hace roll back: 'bool' object has no attribute 'execute'<class 'AttributeError'> <traceback object at 0x00000268A1A13580>
+05:14:24 PM: DEBUG [cursor_del_pool.py:8] Inicio del método with __enter__
+05:14:24 PM: DEBUG [conexion.py:30] Creación del pool exitoso:<psycopg_pool.pool.ConnectionPool 'pool-1' at 0x1ec227cc9b0>
+05:14:24 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1ec22a14a10>
+05:14:24 PM: DEBUG [cursor_del_pool.py:26] Dentro del bloque with
+05:14:24 PM: DEBUG [cursor_del_pool.py:14] Se ejecuta método __exit__
+05:14:24 PM: ERROR [cursor_del_pool.py:17] Ocurrio una excepcion, se hace roll back: 'bool' object has no attribute 'execute'<class 'AttributeError'> <traceback object at 0x000001EC202D3580>
+05:23:18 PM: DEBUG [cursor_del_pool.py:8] Inicio del método with __enter__
+05:23:18 PM: DEBUG [conexion.py:30] Creación del pool exitoso:<psycopg_pool.pool.ConnectionPool 'pool-1' at 0x1f85a86c9b0>
+05:23:18 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x1f85aab49e0>
+05:23:18 PM: DEBUG [cursor_del_pool.py:26] Dentro del bloque with
+05:23:18 PM: DEBUG [cursor_del_pool.py:14] Se ejecuta método __exit__
+05:23:18 PM: ERROR [cursor_del_pool.py:17] Ocurrio una excepcion, se hace roll back: 'bool' object has no attribute 'execute'<class 'AttributeError'> <traceback object at 0x000001F8583732C0>
+05:38:48 PM: DEBUG [cursor_del_pool.py:8] Inicio del método with __enter__
+05:38:48 PM: DEBUG [conexion.py:30] Creación del pool exitoso:<psycopg_pool.pool.ConnectionPool 'pool-1' at 0x15f98b8b1a0>
+05:38:48 PM: DEBUG [conexion.py:42] Conexion obtenida del pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x15f98d058e0>
+05:38:48 PM: DEBUG [cursor_del_pool.py:26] Dentro del bloque with
+05:38:48 PM: DEBUG [cursor_del_pool.py:28] [(3, 'Maria', 'Moreno', 'maria@mail.com'), (8, 'Sebastian', 'Ceballos', 'sebastian@mail.com'), (10, 'Michael', 'Morales', 'michael@mail.com'), (5, 'Jineth', 'Gonzalez', 'jineth@mail.com'), (6, 'Melissa', 'Ocampo', 'melissa@mail.com'), (15, 'Sandra', 'MorenoSalamanca', 'sandra@mail.com'), (23, 'Sofia', 'Velasquez', 'sofia@mail.com'), (1, 'Monica', 'Ceballos', 'monica@mail.com'), (14, 'Andres', 'Bonilla', 'abonilla@mail.com')]
+05:38:48 PM: DEBUG [cursor_del_pool.py:14] Se ejecuta método __exit__
+05:38:48 PM: DEBUG [cursor_del_pool.py:20] Commit de la transaccion
+05:38:48 PM: DEBUG [conexion.py:49] Regresamos la conexion al pool: <psycopg.Connection [IDLE] (host=127.0.0.1 user=postgres database=test_db) at 0x15f98d058e0>
